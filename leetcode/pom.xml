@@ -26,6 +26,9 @@
         <module>leetcode1017_负二进制转换</module>
         <module>leetcode1019_链表中的下一个更大节点</module>
         <module>leetcode336_回文对</module>
+        <module>leetcode1985_找出数组中的第 K 大整数</module>
+        <module>leetcode407_接雨水</module>
+        <module>leetcode1025_除数博弈</module>
     </modules>
 
 

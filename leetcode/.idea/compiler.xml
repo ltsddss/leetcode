@@ -7,23 +7,26 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="leetcode831_隐藏个人信息" />
-        <module name="leetcode237_删除链表中的节点" />
-        <module name="leetcode336_回文对" />
+        <module name="leetcode575_分糖果" />
+        <module name="leetcode830_较大分组的位置" />
+        <module name="leetcode1025_除数博弈" />
         <module name="leetcode1936_新增的最少台阶数" />
-        <module name="leetcode1394_找出数组中的幸运数" />
-        <module name="leetcode1019_链表中的下一个更大节点" />
+        <module name="leetcode237_删除链表中的节点" />
         <module name="leetcode500_键盘行" />
         <module name="leetcode1413_逐步求和得到正数的最小值" />
-        <module name="leetcode575_分糖果" />
+        <module name="leetcode1985_找出数组中的第 K 大整数" />
+        <module name="leetcode1019_链表中的下一个更大节点" />
         <module name="leetcode1017_负二进制转换" />
         <module name="leetcode829_连续整数和" />
+        <module name="leetcode407_接雨水" />
         <module name="leetcode1018_可被 5 整除的二进制前缀" />
-        <module name="leetcode725_分隔链表" />
-        <module name="面试题 04.08. 首个共同祖先" />
+        <module name="leetcode336_回文对" />
+        <module name="leetcode1221_分割平衡字符串" />
         <module name="leetcode_336回文对" />
         <module name="leetcode1395_统计作战单位数" />
-        <module name="leetcode830_较大分组的位置" />
-        <module name="leetcode1221_分割平衡字符串" />
+        <module name="leetcode1394_找出数组中的幸运数" />
+        <module name="leetcode725_分隔链表" />
+        <module name="面试题 04.08. 首个共同祖先" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
