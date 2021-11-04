@@ -29,6 +29,10 @@
         <module>leetcode1985_找出数组中的第 K 大整数</module>
         <module>leetcode407_接雨水</module>
         <module>leetcode1025_除数博弈</module>
+        <module>leetcode367_有效的完全平方数</module>
+        <module>leetcode1337_矩阵中战斗力最弱的 K 行</module>
+        <module>leetcode884_两句话中不常见的单词</module>
+        <module>leetcode279_完全平方数</module>
     </modules>
 
 
