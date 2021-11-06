@@ -33,6 +33,9 @@
         <module>leetcode1337_矩阵中战斗力最弱的 K 行</module>
         <module>leetcode884_两句话中不常见的单词</module>
         <module>leetcode279_完全平方数</module>
+        <module>leetcode1218_最长定差子序列</module>
+        <module>leetcode153_寻找旋转排序数组中的最小值</module>
+        <module>leetcode268_丢失的数字</module>
     </modules>
 
 
