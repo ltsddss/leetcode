@@ -36,6 +36,9 @@
         <module>leetcode1218_最长定差子序列</module>
         <module>leetcode153_寻找旋转排序数组中的最小值</module>
         <module>leetcode268_丢失的数字</module>
+        <module>leetcode1447_最简分数</module>
+        <module>leetcode1184_公交站间的距离</module>
+        <module>leetcode1041_困于环中的机器人</module>
     </modules>
 
 

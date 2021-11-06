@@ -9,6 +9,9 @@ public class Solution {
             if (i!=nums[i]){
                 return i;
             }
+            if(i==nums.length-1){
+                return i+1;
+            }
         }
         return 0;
     }
@@ -16,6 +19,6 @@ public class Solution {
     public static void main(String[] args) {
         Solution s=new Solution();
 
-        System.out.println(s.missingNumber(new int[]{9, 6, 4, 2, 3, 5, 7, 0, 1}));
+        System.out.println(s.missingNumber(new int[]{ 0, 1}));
     }
 }
