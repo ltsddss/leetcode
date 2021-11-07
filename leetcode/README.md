@@ -32,3 +32,9 @@
 * leetcode1447_最简分数
 * leetcode1184_公交站间的距离
 * leetcode1041_困于环中的机器人
+## 11月7日
+* leetcode5918_统计字符串中的元音子字符串
+* leetcode5919_所有子字符串中的元音
+* leetcode5920_分配给商店的最多商品的最小值（看懂了，不会做）
+* leetcode598_范围求和 II
+* leetcode726_原子的数量(待解答)

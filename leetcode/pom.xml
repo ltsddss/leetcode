@@ -39,6 +39,11 @@
         <module>leetcode1447_最简分数</module>
         <module>leetcode1184_公交站间的距离</module>
         <module>leetcode1041_困于环中的机器人</module>
+        <module>leetcode5918_统计字符串中的元音子字符串</module>
+        <module>leetcode5919_所有子字符串中的元音</module>
+        <module>leetcode5920_分配给商店的最多商品的最小值</module>
+        <module>leetcode598_范围求和 II</module>
+        <module>leetcode726_原子的数量</module>
     </modules>
 
 
