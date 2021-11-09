@@ -45,6 +45,7 @@
         <module>leetcode598_范围求和 II</module>
         <module>leetcode726_原子的数量</module>
         <module>leetcode299_猜数字游戏</module>
+        <module>leetcode488_祖玛游戏</module>
     </modules>
 
 
