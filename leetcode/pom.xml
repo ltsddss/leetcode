@@ -46,6 +46,8 @@
         <module>leetcode726_原子的数量</module>
         <module>leetcode299_猜数字游戏</module>
         <module>leetcode488_祖玛游戏</module>
+        <module>leetcode1209_删除字符串中的所有相邻重复项 II</module>
+        <module>leetcode495_提莫攻击</module>
     </modules>
 
 
