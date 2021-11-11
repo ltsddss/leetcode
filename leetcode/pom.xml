@@ -48,6 +48,7 @@
         <module>leetcode488_祖玛游戏</module>
         <module>leetcode1209_删除字符串中的所有相邻重复项 II</module>
         <module>leetcode495_提莫攻击</module>
+        <module>leetcode1046_最后一块石头的重量</module>
     </modules>
 
 
