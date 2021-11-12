@@ -49,6 +49,8 @@
         <module>leetcode1209_删除字符串中的所有相邻重复项 II</module>
         <module>leetcode495_提莫攻击</module>
         <module>leetcode1046_最后一块石头的重量</module>
+        <module>leetcode375_猜数字大小 II</module>
+        <module>leetcode1717_删除子字符串的最大得分</module>
     </modules>
 
 
