@@ -1,7 +1,7 @@
 package com.lts.main;
 
 import java.util.Stack;
-
+//  待解答
 public class Solution {
 
     int result=0;
@@ -23,9 +23,9 @@ public class Solution {
             }
         }
         else {
-
+            return 1;
         }
 
-
+return 1;
     }
 }

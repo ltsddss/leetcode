@@ -51,6 +51,7 @@
         <module>leetcode1046_最后一块石头的重量</module>
         <module>leetcode375_猜数字大小 II</module>
         <module>leetcode1717_删除子字符串的最大得分</module>
+        <module>leetcode520_检测大写字母</module>
     </modules>
 
 
