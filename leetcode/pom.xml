@@ -52,6 +52,9 @@
         <module>leetcode375_猜数字大小 II</module>
         <module>leetcode1717_删除子字符串的最大得分</module>
         <module>leetcode520_检测大写字母</module>
+        <module>leetcode5910_检查两个字符串是否几乎相等</module>
+        <module>leetcode5912_每一个查询的最大美丽值</module>
+        <module>leetcode677_键值映射</module>
     </modules>
 
 
