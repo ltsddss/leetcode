@@ -18,7 +18,6 @@
         <module name="leetcode1019_链表中的下一个更大节点" />
         <module name="leetcode500_键盘行" />
         <module name="leetcode1025_除数博弈" />
-        <module name="leetcode153_寻找旋转排序数组中的最小值" />
         <module name="leetcode677_键值映射" />
         <module name="leetcode1018_可被 5 整除的二进制前缀" />
         <module name="leetcode726_原子的数量" />
@@ -35,12 +34,14 @@
         <module name="leetcode488_祖玛游戏" />
         <module name="leetcode598_范围求和 II" />
         <module name="leetcode1218_最长定差子序列" />
+        <module name="leetcode1017_负二进制转换" />
         <module name="leetcode279_完全平方数" />
         <module name="leetcode407_接雨水" />
         <module name="leetcode725_分隔链表" />
         <module name="leetcode268_丢失的数字" />
         <module name="leetcode5910_检查两个字符串是否几乎相等" />
         <module name="leetcode5919_所有子字符串中的元音" />
+        <module name="leetcode319_灯泡开关" />
         <module name="leetcode1447_最简分数" />
         <module name="leetcode831_隐藏个人信息" />
         <module name="leetcode1337_矩阵中战斗力最弱的 K 行" />
@@ -49,7 +50,7 @@
         <module name="leetcode5918_统计字符串中的元音子字符串" />
         <module name="leetcode5912_每一个查询的最大美丽值" />
         <module name="leetcode336_回文对" />
-        <module name="leetcode1017_负二进制转换" />
+        <module name="leetcode153_寻找旋转排序数组中的最小值" />
         <module name="leetcode237_删除链表中的节点" />
         <module name="leetcode367_有效的完全平方数" />
         <module name="leetcode1209_删除字符串中的所有相邻重复项 II" />
