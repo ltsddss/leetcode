@@ -56,6 +56,7 @@
         <module>leetcode5912_每一个查询的最大美丽值</module>
         <module>leetcode677_键值映射</module>
         <module>leetcode319_灯泡开关</module>
+        <module>leetcode4_寻找两个正序数组的中位数</module>
     </modules>
 
 
