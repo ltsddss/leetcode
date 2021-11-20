@@ -61,6 +61,7 @@
         <module>leetcode563_二叉树的坡度</module>
         <module>leetcode1974_使用特殊打字机键入单词的最少时间</module>
         <module>leetcode397_整数替换</module>
+        <module>leetcode594_最长和谐子序列</module>
     </modules>
 
 
