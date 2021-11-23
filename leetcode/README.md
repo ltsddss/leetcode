@@ -73,3 +73,5 @@ leetcode397_整数替换
 * leetcode5201_给植物浇水
 * leetcode5930_两栋颜色不同且距离最远的房子
 * leetcode384_打乱数组
+## 11月22日
+* leetcode859_亲密字符串
