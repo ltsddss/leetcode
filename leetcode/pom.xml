@@ -67,6 +67,7 @@
         <module>leetcode5186_区间内查询数字的频率</module>
         <module>leetcode384_打乱数组</module>
         <module>leetcode859_亲密字符串</module>
+        <module>leetcode剑指offer46_把数字翻译成字符串</module>
     </modules>
 
 
