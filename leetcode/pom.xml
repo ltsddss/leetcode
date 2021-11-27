@@ -68,6 +68,10 @@
         <module>leetcode384_打乱数组</module>
         <module>leetcode859_亲密字符串</module>
         <module>leetcode剑指offer46_把数字翻译成字符串</module>
+        <module>leetcode700_二叉搜索树中的搜索</module>
+        <module>leetcode519_随机反转矩阵</module>
+        <module>leetcode5992_统计出现过一次的公共字符串</module>
+        <module>leetcode5923_从房屋收集雨水需要的最少水桶数</module>
     </modules>
 
 
