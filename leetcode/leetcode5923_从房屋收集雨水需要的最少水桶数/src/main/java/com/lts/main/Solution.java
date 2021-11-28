@@ -17,6 +17,7 @@ public class Solution {
                 list.add(i);
             }
         }
+        return 9;
     }
 
     public static void main(String[] args) {
