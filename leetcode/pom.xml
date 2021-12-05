@@ -78,6 +78,11 @@
         <module>leetcode438_找到字符串中所有字母异位词</module>
         <module>leetcode1446_连续字符</module>
         <module>leetcode506_相对名次</module>
+        <module>leetcode1005_K次取反后最大的数组和</module>
+        <module>leetcode383_赎金信</module>
+        <module>leetcode5942_找出 3 位偶数</module>
+        <module>leetcode5943_删除链表的中间节点</module>
+        <module>leetcode5932_合法重新排列数对</module>
     </modules>
 
 
