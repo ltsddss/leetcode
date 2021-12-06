@@ -83,6 +83,7 @@
         <module>leetcode5942_找出 3 位偶数</module>
         <module>leetcode5943_删除链表的中间节点</module>
         <module>leetcode5932_合法重新排列数对</module>
+        <module>leetcode1816_截断句子</module>
     </modules>
 
 
