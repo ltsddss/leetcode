@@ -85,6 +85,10 @@
         <module>leetcode5932_合法重新排列数对</module>
         <module>leetcode1816_截断句子</module>
         <module>leetcode1034_边界着色</module>
+        <module>leetcode794_有效的井字游戏</module>
+        <module>leetcode748_最短补全词</module>
+        <module>leetcode5934_找到和最大的长度为 K 的子序列</module>
+        <module>leetcode5935_适合打劫银行的日子</module>
     </modules>
 
 
