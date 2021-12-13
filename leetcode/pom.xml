@@ -89,6 +89,8 @@
         <module>leetcode748_最短补全词</module>
         <module>leetcode5934_找到和最大的长度为 K 的子序列</module>
         <module>leetcode5935_适合打劫银行的日子</module>
+        <module>leetcode5952_环和杆</module>
+        <module>leetcode5953_子数组范围和</module>
     </modules>
 
 
