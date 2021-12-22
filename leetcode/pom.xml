@@ -91,6 +91,7 @@
         <module>leetcode5935_适合打劫银行的日子</module>
         <module>leetcode5952_环和杆</module>
         <module>leetcode5953_子数组范围和</module>
+        <module>leetcode686_重复叠加字符串匹配</module>
     </modules>
 
 
